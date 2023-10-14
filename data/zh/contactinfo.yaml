@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: '23-N, Beach St'
+- line: '10200 George Town, Penang'
+
+phone: '+60 12-435 3134'
+
+email: 'hello@luckyhole.com'
