@@ -1,9 +1,9 @@
 languageCode = "en-us"
 title = "LUCKYHOLE"
-baseURL = "http://localhost:1313/"
+baseURL = "https://effervescent-semifreddo-211237.netlify.app"
 theme = "massively"
-googleanalytics = ""
-disqusShortname = ""
+#googleanalytics = ""
+#disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [params]
